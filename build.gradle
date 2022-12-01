@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group 'me.gleeming.aoc'
+version '1.0-SNAPSHOT'
