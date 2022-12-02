@@ -6,6 +6,12 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * completed in:
+ * part 1 - 5:35
+ * part 2 - 6:38
+ * global rank: 1461
+ */
 public class DayOne {
 
     public static void main(String[] args) throws Exception {
