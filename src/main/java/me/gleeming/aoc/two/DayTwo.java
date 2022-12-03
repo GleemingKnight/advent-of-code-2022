@@ -1,4 +1,4 @@
-package two;
+package me.gleeming.aoc.two;
 
 import java.io.File;
 import java.util.Scanner;
